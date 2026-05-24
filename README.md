@@ -238,6 +238,7 @@ Diagnostics	1.5 hrs	1.5 hrs
 Report Writing	4 hrs	4 hrs
 
 
-
+## Author
+Teresia Wainaina
 
 
